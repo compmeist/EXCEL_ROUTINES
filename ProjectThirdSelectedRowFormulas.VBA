@@ -1,3 +1,12 @@
+'
+'   Select Three Rows, where you want the formulas to copy linearly and porportionally to the third row
+'
+'     =A3
+'     =A7     
+' ( will set to =A11)
+'
+'
+
 Option Explicit
 
 Public Sub ProjectThirdSelectedRowFormulas()
