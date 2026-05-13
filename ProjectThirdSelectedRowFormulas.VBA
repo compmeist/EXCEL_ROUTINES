@@ -1,9 +1,9 @@
 '
 '   Select Three Rows, where you want the formulas to copy linearly and porportionally to the third row
 '
-'     =A3
-'     =A7     
-' ( will set to =A11)
+'    Row1, Column B formula:  =A3
+'    Row2, Column B formula: =A7     
+'    Row3, Column B formula will set to: =A11
 '
 '
 
